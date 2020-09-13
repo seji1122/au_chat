@@ -59,7 +59,3 @@ group :production do
 end
 
 
-  gem 'rails_12factor'
-end
-
-
